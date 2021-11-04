@@ -16,7 +16,9 @@ Componentes utilizados
 - RadioButtons
 - EditText
 
-![Screenshot_1636058480](https://user-images.githubusercontent.com/28407757/140433400-83692376-ed84-4487-abf7-1784aca98b7a.png)
+![Screenshot_1636058480](https://user-images.githubusercontent.com/28407757/140433491-f3977d02-9564-4320-8b76-b3b0564efe74.png)
+
+
 
 Componentes utilizados 
 - List View
