@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCourses</string>
+    <string name="toggle_turn_on">Ligar</string>
+    <string name="toggle_turn_off">Desligar</string>
+    <string name="btn_display">Exibir Estado</string>
+    <string name="example_edittext">Senha</string>
+    <string name="show_the_text">Exibir Senha</string>
+    <string name="enter_text">text changes</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Selecione seu estado:</string>
+    <string name="title_activity_cursos">CursosActivity</string>
+
+
+</resources>
