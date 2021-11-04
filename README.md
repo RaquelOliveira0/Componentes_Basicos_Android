@@ -1,6 +1,6 @@
-Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis.
+Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis.A seguir são apresentadas as telas e os componentes presentes.
 
-Componentes utilizados 
+## Componentes utilizados:
 - Arrays(Lists)
 - Autocomplete
 - Options Menu
@@ -12,7 +12,7 @@ Componentes utilizados
 <img src="https://user-images.githubusercontent.com/28407757/140425748-60cdce6a-4d49-4e6e-8a98-416b15a56754.png" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/28407757/140425758-fb2aee27-4439-4d0e-8854-3a0a12bab2eb.png" width="200" height="400">
 
-Componentes utilizados
+## Componentes utilizados:
 - Spinners
 - RadioButtons
 - EditText
@@ -21,13 +21,13 @@ Componentes utilizados
 <img src="https://user-images.githubusercontent.com/28407757/140433614-c493f72b-f727-4603-8ee4-9e21c62add9c.png" width="200" height="400">
 
 
-Componentes utilizados 
+## Componentes utilizados:
 - List View
 - ArrayAdapter dentro de uma ListView
 
 <img src="https://user-images.githubusercontent.com/28407757/140425405-db573418-9570-4844-9ccb-a3b7ab9a76c5.png"  width="200" height="400">
 
-Componentes utilizados
+## Componentes utilizados:
 - 	Toggle	button
 - Dropdown/Popup	Menu
 - Imagem	de	fundo
