@@ -1,3 +1,5 @@
+Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis.
+
 Componentes utilizados 
 - Arrays(Lists)
 - Autocomplete
