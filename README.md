@@ -14,6 +14,7 @@ Componentes utilizados
 - Spinners
 - RadioButtons
 - EditText
+- Clique	longo	em	um	componente	de	tela
 
 <img src="https://user-images.githubusercontent.com/28407757/140433614-c493f72b-f727-4603-8ee4-9e21c62add9c.png" width="200" height="400">
 
