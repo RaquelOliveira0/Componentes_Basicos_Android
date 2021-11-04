@@ -15,8 +15,8 @@ Componentes utilizados
 - Spinners
 - RadioButtons
 - EditText
-<img src="https://user-images.githubusercontent.com/28407757/140432727-a90776ca-ffd5-474f-85f2-b029259d0e1e.png" width="200" height="400">
 
+![Screenshot_1636058480](https://user-images.githubusercontent.com/28407757/140433400-83692376-ed84-4487-abf7-1784aca98b7a.png)
 
 Componentes utilizados 
 - List View
