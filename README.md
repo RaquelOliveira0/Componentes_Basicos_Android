@@ -9,13 +9,13 @@ Componentes utilizados
 
 <img src="https://user-images.githubusercontent.com/28407757/140425748-60cdce6a-4d49-4e6e-8a98-416b15a56754.png" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/28407757/140425758-fb2aee27-4439-4d0e-8854-3a0a12bab2eb.png" width="200" height="400">
-<img src=https://user-images.githubusercontent.com/28407757/140426422-44cdcf9f-ed2b-4591-8f40-37024ed76fcd.png) width="200" height="400">
 
 Componentes utilizados
 - Spinners
 - RadioButtons
 - EditText
 
+<img src="https://user-images.githubusercontent.com/28407757/140433614-c493f72b-f727-4603-8ee4-9e21c62add9c.png" width="200" height="400">
 
 
 Componentes utilizados 
