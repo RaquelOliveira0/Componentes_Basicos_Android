@@ -13,6 +13,7 @@ Componentes utilizados
 
 Componentes utilizados
 - Spinners
+- 
 - RadioButtons
 - EditText
 <img src="https://user-images.githubusercontent.com/28407757/140432727-a90776ca-ffd5-474f-85f2-b029259d0e1e.png"  width="200" height="400">
