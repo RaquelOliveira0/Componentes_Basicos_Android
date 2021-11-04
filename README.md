@@ -8,7 +8,7 @@ Componentes utilizados
 - Tocar um som ( com botão de play e de pausa)
 
 
-![Screenshot_1636058458](https://user-images.githubusercontent.com/28407757/140425748-60cdce6a-4d49-4e6e-8a98-416b15a56754.png) { width=50% }
+![Screenshot_1636058458](https://user-images.githubusercontent.com/28407757/140425748-60cdce6a-4d49-4e6e-8a98-416b15a56754.png) 
 ![Screenshot_1636060183](https://user-images.githubusercontent.com/28407757/140425758-fb2aee27-4439-4d0e-8854-3a0a12bab2eb.png)
 ![Screenshot_1636058467](https://user-images.githubusercontent.com/28407757/140426422-44cdcf9f-ed2b-4591-8f40-37024ed76fcd.png)
 
