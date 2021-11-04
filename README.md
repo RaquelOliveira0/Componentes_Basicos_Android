@@ -5,7 +5,7 @@ Componentes utilizados
 - Menus de acordo com o google
 - Activities	com	múltiplas	Tabs
 - Grid View
-- Tocar um som ( com botão de play e de pausa)
+- Tocar um som (com botão de play e de pausa)
 
 <img src="https://user-images.githubusercontent.com/28407757/140425748-60cdce6a-4d49-4e6e-8a98-416b15a56754.png" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/28407757/140425758-fb2aee27-4439-4d0e-8854-3a0a12bab2eb.png" width="200" height="400">
@@ -13,10 +13,9 @@ Componentes utilizados
 
 Componentes utilizados
 - Spinners
-- 
 - RadioButtons
 - EditText
-<img src="https://user-images.githubusercontent.com/28407757/140432727-a90776ca-ffd5-474f-85f2-b029259d0e1e.png"  width="200" height="400">
+<img src="https://user-images.githubusercontent.com/28407757/140432727-a90776ca-ffd5-474f-85f2-b029259d0e1e.png" width="200" height="400">
 
 
 Componentes utilizados 
